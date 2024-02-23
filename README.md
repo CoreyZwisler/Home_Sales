@@ -1,6 +1,6 @@
 # Home_Sales
 
-**Instructions**
+**Instructions:**
 * Rename the `Home_Sales_starter_code.ipynb` file as `Home_Sales.ipynb`.
 
 * Import the necessary PySpark SQL functions for this assignment.
@@ -33,6 +33,6 @@
 
 * Uncache the `home_sales` temporary table.
 
-*Verify that the `home_sales` temporary table is uncached using PySpark.
+* Verify that the `home_sales` temporary table is uncached using PySpark.
 
-*Download your `Home_Sales.ipynb` file and upload it into your "Home_Sales" GitHub repository.
+* Download your `Home_Sales.ipynb` file and upload it into your "Home_Sales" GitHub repository.
